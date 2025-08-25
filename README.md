@@ -53,7 +53,7 @@ This 3-part dashboard (Summary, Overview, Details) helps:
 - Repayment Data (Installments, Amount Received)  
 - Loan Status → *Fully Paid, Current, Charged Off*  
 
-📌 Source: Open dataset (https://github.com/AmanKhan-2003/Bank-loan-Dashboard/blob/main/Bank%20Loan%20Project.pbit) used for learning & analysis purposes. 
+📌 Source: Open dataset (https://github.com/AmanKhan-2003/Bank-loan-Dashboard/blob/main/financial_loan%20(%20data-source%20).csv) used for learning & analysis purposes. 
 ---
 
 ## 🌟 Features / Highlights  
